@@ -1,16 +1,17 @@
-## Hi there 👋
+<h2 align="center">Hi, My name is Romy and I'm just chilling on vim</h2>
 
-<!--
-**m1r0lY/m1r0lY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="230" src="https://media.discordapp.net/attachments/1365114905392316466/1365114956844105820/022a4f734d2de0f469629130373d0bcc.gif?ex=680c21e0&is=680ad060&hm=abbd7216bfe5b709fcf32d4377e89fb4ff775cc71781c4f2e3348f888b3dae19&="  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31kdtpnlep73iql2tv3qfatvaz5i">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kdtpnlep73iql2tv3qfatvaz5i&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
